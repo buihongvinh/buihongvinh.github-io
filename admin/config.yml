@@ -1,12 +1,12 @@
 backend:
-  name: git-gateway
+  name: buihongvinh.github.io
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/images
 public_folder: /images
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'posts'
+    label: 'posts'
+    folder: 'posts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
