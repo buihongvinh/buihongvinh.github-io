@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: buihongvinh/buihongvinh.github.io
   branch: master # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
