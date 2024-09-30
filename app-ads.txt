@@ -1,4 +1,3 @@
-google.com, pub-6997216769675909, DIRECT, f08c47fec0942fa0
 google.com, pub-6561796537855097, RESELLER, f08c47fec0942fa0
 #Ad.Plus
 ad.plus, 23155531379 , DIRECT
